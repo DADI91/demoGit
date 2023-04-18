@@ -1,3 +1,6 @@
 test de mon git en ligne de commande
 
-ligne 2 : test git pull, modifier depuis github
+ligne 2 : test git pull, modifier depuis github.
+
+modif 3 bis
+
