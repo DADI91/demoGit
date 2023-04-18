@@ -1,5 +1,9 @@
 test de mon git en ligne de commande
 
-ligne 2 : test git pull, modifier depuis github
+ligne 2 : test git pull, modifier depuis github.
 
 Ligne 5 : créée sur branche devLogin
+
+
+
+nouvel modif
